@@ -1,0 +1,8 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+                   0sum=x,carry=x,a=x,b=x
+                  10sum=0,carry=0,a=0,b=0
+                  20sum=1,carry=0,a=0,b=1
+                  30sum=1,carry=0,a=1,b=0
+                  40sum=0,carry=1,a=1,b=1
+$finish called at time : 60 ns : File "C:/Users/Pothalasuma/OneDrive/Desktop/verilog/Halfadder/Halfadder.srcs/sim_1/new/testbench.v" Line 34
